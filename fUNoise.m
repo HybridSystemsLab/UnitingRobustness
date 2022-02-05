@@ -15,7 +15,7 @@ function xdot = fUNoise(x)
 %   Revision: 0.0.0.3 Date: 09/29/2020 1:07:00
    
 % The global variables
-global lambda gamma M zeta sigma randomsInterp randomsIndex rho
+global lambda gamma M zeta sigma rho randomsIndex randomsInterp 
 
 % state
 z1 = x(1);
